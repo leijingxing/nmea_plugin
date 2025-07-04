@@ -1,7 +1,8 @@
 name: nmea_plugin
 description: A Flutter plugin to listen for and parse native NMEA messages from Android's GPS hardware. Provides a simple stream of structured NMEA data like GGA, GSA, and GSV.
 version: 0.0.1
-homepage:
+homepage: https://github.com/leijingxing/nmea_plugin.git
+repository: https://github.com/leijingxing/nmea_plugin.git
 
 environment:
   sdk: ^3.8.1
